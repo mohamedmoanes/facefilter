@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-vision:18.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\1f42e847e3a6400f387ee5c0b405d3a9\play-services-vision-18.0.0\AndroidManifest.xml:2:1-9:12
@@ -47,39 +47,39 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\moham\.gradle\caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\e7284bace20bec096294b5474e153fbf\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:3:11-42
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:3:11-42
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.camera
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:5:5-60
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:5:5-60
 	android:name
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:5:19-57
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:5:19-57
 uses-feature#0x00020000
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:6:5-7:35
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:6:5-7:35
 	android:glEsVersion
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:6:19-51
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:6:19-51
 	android:required
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:7:9-32
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:7:9-32
 uses-permission#android.permission.CAMERA
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:9:5-65
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:9:22-62
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:9:22-62
 application
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:11:5-24:19
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:11:5-24:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-vision:18.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\1f42e847e3a6400f387ee5c0b405d3a9\play-services-vision-18.0.0\AndroidManifest.xml:7:5-20
@@ -103,33 +103,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:16:9-40
 activity#com.moanes.facefilter.FaceActivity
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:19:17-68
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:19:17-68
 	android:name
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:21:17-76
+ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:21:17-76
 	android:name
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\9ee5da6fca20f6f07dce6c73fc4ca33a\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\f5bdf8930f5b0dade80802408310dda6\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -216,16 +216,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\moham\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\c073c929da6ad4e112abaac7d3212747\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\e72949b043b8df7a6068dab5e7cd21f2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\facespotter-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\facespotter-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
+		ADDED from E:\facefilter\app\src\main\AndroidManifest.xml
+		INJECTED from E:\facefilter\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\moham\.gradle\caches\transforms-2\files-2.1\e91790921c910b5c0de2045e813ad59c\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
 	android:exported
