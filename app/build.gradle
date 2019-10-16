@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.raywenderlich.facespotter"
+        applicationId "com.moanes.facefilte"
         minSdkVersion 21
         buildToolsVersion "29.0.2"
         targetSdkVersion 28
